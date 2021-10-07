@@ -1,3 +1,3 @@
 # hello-world
-First learner
-I am Masebba, I want to be a full stuck developer
+First learner,
+I am Masebba, I want to be a full stuck developer in shortest posible way
